@@ -132,9 +132,6 @@ Devixo-Library-Management-System/
     ├── book-operations.png
     └── search-results.png
 ```
-
-**Note:** The screenshots folder is optional. Include it only if you upload genuine screenshots. Include `book_data.txt` only if you intend to provide sample records; otherwise, the application can create the file when it saves data.
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -264,8 +261,6 @@ The program was tested through its interactive menu.
 | Load data | Saved records are loaded. |
 | Invalid menu input | An error message is displayed. |
 | Duplicate book ID | The duplicate record is rejected. |
-
-*Testing note: Restart-based file persistence should be reported as verified only after confirming that saved records remain available in a subsequent execution in the same persistent environment.*
 
 ## ⚠️ Limitations
 
