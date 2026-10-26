@@ -70,7 +70,7 @@ The main objectives of this project are to:
 
 The application supports searching by **both book title and author**, including case-insensitive keyword matching.
 
-For example, searching for `discrete` can find a book titled `Discrete Mathematics`, regardless of the capitalization of the search term.
+For example, searching for `maths` can find a book titled `Maths`, regardless of the capitalization of the search term.
 
 ## 🛠️ Technologies Used
 
