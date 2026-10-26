@@ -128,9 +128,9 @@ Devixo-Library-Management-System/
 ├── README.md
 ├── book_data.txt
 └── screenshots/
-    ├── main-menu.png
-    ├── book-operations.png
-    └── search-results.png
+    ├──  Libraries, book class
+    ├──  class library
+    └──  display book input function
 ```
 ## 🚀 Getting Started
 
